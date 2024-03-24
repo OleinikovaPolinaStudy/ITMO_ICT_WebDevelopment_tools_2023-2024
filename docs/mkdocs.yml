@@ -1,0 +1,5 @@
+site_name: Docs
+dev_addr: 127.0.0.1:9000
+nav:
+  - Home: index.md
+  - LR1: LR1.md
